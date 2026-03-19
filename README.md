@@ -1,6 +1,6 @@
 # Exp-1 ATM & BANKING SYSTEM
-### Name: RAMYA R
-### Reg No: 212223230169
+### Name: SHARVESHWARAN M
+### Reg No: 212224240150
 # AIM:
 
 To draw a UML diagram for an ATM and Banking System.
